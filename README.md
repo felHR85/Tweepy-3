@@ -3,7 +3,7 @@ Tweepy-3
 
 Twitter for Python 3! An update of original Tweepy to gain compatibility with Python 3
 
-This is simply and updated version of [original Tweepy library](https://github.com/tweepy/tweepy) of Joshua Roesslein and others
+This is simply and updated version of [original Tweepy library](https://github.com/tweepy/tweepy) of [Joshua Roesslein](https://github.com/joshthecoder) and others
 I only tweeted so It is not totally tested. Keep working on it:
 
 *Twitter for Python!*
